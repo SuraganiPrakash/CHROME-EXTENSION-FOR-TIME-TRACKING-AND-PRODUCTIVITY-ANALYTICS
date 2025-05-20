@@ -82,3 +82,11 @@ This continuous cycle ensures that users always have up-to-date insights into th
 In essence, this Chrome-based productivity tool is a complete solution for time tracking and behavior analysis. It combines passive data collection, real-time synchronization, and insightful visual analytics to empower users to make smarter choices about how they spend their time online. By leveraging technologies like Chrome extensions, WebSockets or HTTP APIs, MongoDB, and modern frontend frameworks, the system delivers a rich, user-friendly experience.
 
 Ultimately, this project supports better digital habits and fosters intentional use of time—a valuable asset in today’s productivity-driven world.
+
+---
+
+# CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/95c63a00-0416-4f3c-9616-1ab637a188d1)
+
+
